@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023 The Evolution X Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- Master device array -->
+    <string-array name="device_arrays" translatable="false">
+        <item>device_1</item>
+        <item>device_2</item>
+        <item>device_3</item>
+    </string-array>
+
+    <!-- Device 1 -->
+    <string-array name="device_1" translatable="false">
+        <item>asus</item> <!-- BRAND -->
+        <item>asus</item> <!-- MANUFACTURER -->
+        <item></item> <!-- ID -->
+        <item>ASUS_Z012D</item> <!-- DEVICE -->
+        <item>WW_Phone</item> <!-- PRODUCT -->
+        <item>ASUS_Z012D</item> <!-- MODEL -->
+        <item>asus/WW_Phone/ASUS_Z012D:7.0/NRD90M/14.2015.1701.8-20170222:user/release-keys</item> <!-- FINGERPRINT -->
+        <item></item> <!-- TYPE -->
+        <item></item> <!-- TAGS -->
+        <item></item> <!-- SECURITY_PATCH -->
+    </string-array>
+
+    <!-- Device 2 -->
+    <string-array name="device_2" translatable="false">
+        <item></item> <!-- BRAND -->
+        <item></item> <!-- MANUFACTURER -->
+        <item></item> <!-- ID -->
+        <item></item> <!-- DEVICE -->
+        <item></item> <!-- PRODUCT -->
+        <item></item> <!-- MODEL -->
+        <item></item> <!-- FINGERPRINT -->
+        <item></item> <!-- TYPE -->
+        <item></item> <!-- TAGS -->
+        <item></item> <!-- SECURITY_PATCH -->
+    </string-array>
+
+    <!-- Device 3 -->
+    <string-array name="device_3" translatable="false">
+        <item></item> <!-- BRAND -->
+        <item></item> <!-- MANUFACTURER -->
+        <item></item> <!-- ID -->
+        <item></item> <!-- DEVICE -->
+        <item></item> <!-- PRODUCT -->
+        <item></item> <!-- MODEL -->
+        <item></item> <!-- FINGERPRINT -->
+        <item></item> <!-- TYPE -->
+        <item></item> <!-- TAGS -->
+        <item></item> <!-- SECURITY_PATCH -->
+    </string-array>
+
+</resources>
